@@ -1,0 +1,77 @@
+# detox_topics.txt — Detox OS video-temaer for MoneyPrinterTurbo
+#
+# Kilde: MindMatter1444/detox-foundation, foundations/001-purpose.md … 010-agent-constitution.md
+# Kun status: approved-filer er brukt. Ingen draft/proposed-innhold.
+# Godkjent 2026-08-03 av Kim og Anniken (se decisions/DECISIONS.md).
+#
+# Format: én linje = ett videotema = verdien til --video-subject.
+# Kildefil oppgitt i kommentarlinjen over hvert tema.
+#
+# VIKTIG — før publisering:
+# Disse temaene er bevisst holdt på "P1/P2"-nivå per 008-customer-philosophy.md
+# sin kanalmatrise: overordnet, dokumenterbar merkevare- og verdibudskap.
+# Ingen av dem inneholder helsepåstander, resultatløfter, symptom-/produktkoblinger
+# eller før/etter-fortellinger. Det genererte manuset (LLM-output) MÅ likevel
+# gjennom menneskelig redaksjonell kontroll før publisering (Raphael fase 1 /
+# 010-agent-constitution.md, publiseringsnivå P2) — automatisk generering er
+# ikke det samme som godkjent Detox-kunnskap.
+
+# Fra 001-purpose.md
+Detox finnes ikke for å selge et produkt, men for å gjøre hardt ervervet helsekunnskap tilgjengelig for flere mennesker
+
+# Fra 001-purpose.md
+Vi lover aldri mirakler hos Detox — vi hjelper deg forstå kroppen din bedre, steg for steg
+
+# Fra 001-purpose.md
+Det minste nyttige systemet er bedre enn en perfekt visjon som aldri blir tilgjengelig — derfor bygger Detox skritt for skritt
+
+# Fra 002-worldview.md
+Ingen kropp er lik. Derfor finnes det ingen ferdig fasit hos Detox, bare kunnskap tilpasset deg
+
+# Fra 002-worldview.md
+Naturlig betyr ikke automatisk trygt, og det tar Detox på det største alvor
+
+# Fra 002-worldview.md
+Tillit må fortjenes hos Detox — ikke skapes med store løfter
+
+# Fra 003-whole-system-philosophy.md
+Detox ser hele mennesket, ikke bare symptomet som står øverst på listen
+
+# Fra 003-whole-system-philosophy.md
+Helse handler sjelden om én enkelt årsak. Detox leter etter sammenhenger, ikke snarveier
+
+# Fra 004-founders.md
+To reiser, én retning: Annikens egen sykdomsreise og Kims evne til å gjøre kunnskap tilgjengelig for flere ble til Detox
+
+# Fra 004-founders.md
+Detox ble ikke født som en forretningsplan. Det ble født av egen erfaring og et ønske om å hjelpe andre
+
+# Fra 005-principles.md
+Hos Detox kommer mennesket før systemet — alltid
+
+# Fra 005-principles.md
+Detox forstår før Detox anbefaler
+
+# Fra 005-principles.md
+Generelle råd er ikke individuelle fasitsvar — Detox skiller alltid mellom de to
+
+# Fra 005-principles.md
+Kunnskap skal gjøre deg mer handlekraftig, ikke mer avhengig av Detox
+
+# Fra 006-health-agency.md
+Helsehandlekraft: å forstå, vurdere og handle på egne vegne — det er kapasiteten Detox ønsker å bygge i deg
+
+# Fra 006-health-agency.md
+Å vite når du trenger hjelp fra andre er også en styrke, ikke et nederlag
+
+# Fra 008-customer-philosophy.md
+Hos Detox er du ikke en ordre. Du er et menneske med en historie
+
+# Fra 008-customer-philosophy.md
+Noen ganger er det beste rådet fra Detox: dette produktet trenger du sannsynligvis ikke
+
+# Fra 009-learning-organization.md
+Detox lærer like mye av det som ikke virker som av det som virker
+
+# Fra 010-agent-constitution.md
+Detox sine AI-agenter hjelper deg finne kunnskap, men diagnostiserer aldri — et menneske er alltid tilgjengelig
